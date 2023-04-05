@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(11, 29, 32);
+}
+.App{
+    background-color: rgba(147, 108, 226, 0.978);
+    min-height: 400px;
+    width: 300px;
+    margin: 40px auto;
+    border-radius: 5px;
+
+}
+#Apptext{
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(94, 207, 49);
+}
+#Appstart{
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color: rgb(160, 215, 198);
+}
